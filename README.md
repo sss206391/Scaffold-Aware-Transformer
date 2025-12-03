@@ -16,6 +16,7 @@ We present a scaffold-aware generative framework for de novo molecular design th
 This package requires:
 
 - Python : 3.7.16
+- moses : 0.10.0
 - scikit-learn : 0.24.2 (for QSAR scoring function)
 - networkx : 2.6.3
 - rdkit : 2023.9.2
