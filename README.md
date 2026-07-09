@@ -52,4 +52,3 @@ If you have any questions or suggestions, please contact us by e-mail.
 Junyoung Park, sss206391@gmail.com
 
 Sunyong Yoo, syyoo@jnu.ac.kr
->>>>>>> 40443653f5d0a2fe102e7185b9ac4e4d2056eac2
