@@ -52,3 +52,12 @@ If you have any questions or suggestions, please contact us by e-mail.
 Junyoung Park, sss206391@gmail.com
 
 Sunyong Yoo, syyoo@jnu.ac.kr
+
+## Citation
+If you use this code or data in your research, please cite our paper:
+
+> Park, J., & Yoo, S. (2026). Novel molecular design via a scaffold-aware transformer with multi-scale attention mechanisms. Journal of Cheminformatics.
+
+**DOI:** [10.1186/s13321-026-01221-6](https://doi.org/10.1186/s13321-026-01221-6)
+
+**Paper:** [Read the full article here](https://doi.org/10.1186/s13321-026-01221-6)
