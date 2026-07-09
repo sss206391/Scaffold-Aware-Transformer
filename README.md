@@ -9,10 +9,12 @@ Authors : ***Junyoung Park, Sunyong Yoo***
 ## Description
 
 We present a scaffold-aware generative framework for de novo molecular design that integrates a transformer-based generator with a graph attention network (GAT)-based predictor. Our approach enables explicit control over molecular scaffolds, the core structural frameworks that define topology and guide key substituent vectors in drug discovery, while simultaneously optimizing for high binding affinity through a cyclic learning mechanism.
+<img width="3990" height="2211" alt="Figure_1" src="https://github.com/user-attachments/assets/8d7a5eb7-2bc2-499f-8727-37bffa9202d7" />
 
 ## Datasets
 - Original GuacaMol benchmark dataset: Available at https://github.com/BenevolentAI/guacamol
 - Original bioactivity datasets (KOR and PIK3CA): Available at https://github.com/larngroup/DiverseDRL
+
 
 ## Requirements
 This package requires:
