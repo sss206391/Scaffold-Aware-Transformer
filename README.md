@@ -1,5 +1,7 @@
 # Scaffold-Aware Transformer
 
+[![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs13321--026--01221--6-blue)](https://doi.org/10.1186/s13321-026-01221-6)
+
 Title : **Novel Molecular Design via a Scaffold-Aware Transformer with Multi-Scale Attention Mechanisms**
 
 Authors : ***Junyoung Park, Sunyong Yoo***
