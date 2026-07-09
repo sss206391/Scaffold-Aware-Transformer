@@ -1,4 +1,3 @@
-=======
 # Scaffold-Aware Transformer
 
 Title : **Novel Molecular Design via a Scaffold-Aware Transformer with Multi-Scale Attention Mechanisms**
